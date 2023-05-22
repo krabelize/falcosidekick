@@ -105,6 +105,7 @@ It works as a single endpoint for as many as you want `Falco` instances :
 ### SIEM
 
 - [**AWS Security Lake**](https://aws.amazon.com/security-lake/)
+- [**Microsoft Sentinel**]([https://aws.amazon.com/security-lake/](https://cryptsus.com/blog/k8s-container-falco-sentinel-siem.html))
 
 ### Workflow
 
